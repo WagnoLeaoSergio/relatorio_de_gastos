@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run main.py
+web: sh setup.sh && cd relatorio_de_gastos && streamlit run main.py
