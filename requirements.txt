@@ -1,0 +1,95 @@
+altair==4.1.0
+argon2-cffi==20.1.0
+astor==0.8.1
+async-generator==1.10
+attrs @ file:///home/wagno/.cache/pypoetry/artifacts/cd/4f/13/dd03ddc656d8c1c51460f9ad945dd8085a650826293ac3ad8eb41e78e2/attrs-20.3.0-py2.py3-none-any.whl
+backcall==0.2.0
+base58==2.0.1
+bleach==3.2.1
+blinker==1.4
+cachetools==4.1.1
+certifi==2020.12.5
+cffi==1.14.4
+chardet==3.0.4
+click==7.1.2
+cycler @ file:///home/wagno/.cache/pypoetry/artifacts/79/c1/b1/8600361642e774af9a05052b976c64240260bd1d2830d5acf7a2fb053c/cycler-0.10.0-py2.py3-none-any.whl
+decorator==4.4.2
+defusedxml==0.6.0
+dnspython @ file:///home/wagno/.cache/pypoetry/artifacts/8f/bd/23/1818574673e483abd1d0ccdadf085a1213a23b5f3f38bc960cb99c05a3/dnspython-2.0.0-py3-none-any.whl
+entrypoints==0.3
+gitdb==4.0.5
+GitPython==3.1.11
+idna==2.10
+importlib-metadata @ file:///home/wagno/.cache/pypoetry/artifacts/8c/2f/91/6202ec643e9b188235dad707c452f3212b6bea7696b79ef27cfb93f534/importlib_metadata-3.1.1-py3-none-any.whl
+ipykernel==5.3.4
+ipython==7.16.1
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+jedi==0.17.2
+Jinja2==2.11.2
+jsonschema==3.2.0
+jupyter-client==6.1.7
+jupyter-core==4.7.0
+jupyterlab-pygments==0.1.2
+kiwisolver @ file:///home/wagno/.cache/pypoetry/artifacts/47/49/65/a77b194846bf047bed0e658413f536dd047024178ec5854f51eaf4988d/kiwisolver-1.3.1-cp36-cp36m-manylinux1_x86_64.whl
+MarkupSafe==1.1.1
+matplotlib @ file:///home/wagno/.cache/pypoetry/artifacts/2f/89/33/a04f951e4c19d73ad26a63aa6af0f2f8f02da12257efbde8ef3dfd6c8b/matplotlib-3.3.3-cp36-cp36m-manylinux1_x86_64.whl
+mistune==0.8.4
+mongoengine @ file:///home/wagno/.cache/pypoetry/artifacts/4e/3c/11/ea089cf1ff155bfa93f9d5469c70e5d1aafbf6536debcbaf6c236b5a00/mongoengine-0.21.0-py3-none-any.whl
+more-itertools @ file:///home/wagno/.cache/pypoetry/artifacts/b1/71/8e/19e4c36dea3554a1f28afe2829e1fe072881d44ceafc5d332882d1c327/more_itertools-8.6.0-py3-none-any.whl
+nbclient==0.5.1
+nbconvert==6.0.7
+nbformat==5.0.8
+nest-asyncio==1.4.3
+notebook==6.1.5
+numpy==1.19.4
+packaging @ file:///home/wagno/.cache/pypoetry/artifacts/b5/d2/81/9ebd7ec13e00305f39c0d6d5b4b4069d797a63b4f7eef745dd19dfb33b/packaging-20.7-py2.py3-none-any.whl
+pandas @ file:///home/wagno/.cache/pypoetry/artifacts/17/73/52/d695fbd80963174250dc7ae7144997e1053c71a3dde3180ca1cf425ff4/pandas-1.1.5-cp36-cp36m-manylinux1_x86_64.whl
+pandocfilters==1.4.3
+parso==0.7.1
+pathtools==0.1.2
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///home/wagno/.cache/pypoetry/artifacts/db/ad/55/f55a2286aece8ec63872372b4e0770e1a2ddd9707c24c33ff546ec8048/Pillow-8.0.1-cp36-cp36m-manylinux1_x86_64.whl
+plotly @ file:///home/wagno/.cache/pypoetry/artifacts/2a/45/47/526b4b8012e2174e2a05a80088cc57b902f7d239876487ea9daf9f428e/plotly-4.14.0-py2.py3-none-any.whl
+pluggy @ file:///home/wagno/.cache/pypoetry/artifacts/d0/77/28/c8787d0072d280cd291983bd208e34d0893c619dd226179ccb5d1b67a1/pluggy-0.13.1-py2.py3-none-any.whl
+prometheus-client==0.9.0
+prompt-toolkit==3.0.8
+protobuf==3.14.0
+ptyprocess==0.6.0
+py @ file:///home/wagno/.cache/pypoetry/artifacts/c0/9d/4e/ea37c0100bf02c802f08703e38ec10d84a16289fa020394ee5bad11af1/py-1.9.0-py2.py3-none-any.whl
+pyarrow==2.0.0
+pycparser==2.20
+pydeck==0.5.0
+Pygments==2.7.3
+pymongo @ file:///home/wagno/.cache/pypoetry/artifacts/ee/85/60/49cc74b0ea5b4d0fb65f0d8ea4b253054491b639ca92f333c66ca56304/pymongo-3.11.2-cp36-cp36m-manylinux2014_x86_64.whl
+pyparsing @ file:///home/wagno/.cache/pypoetry/artifacts/d6/f5/d4/a3ac87f4cf557a0560e3be043de055641989812cc680588a262d0e093c/pyparsing-2.4.7-py2.py3-none-any.whl
+pyrsistent==0.17.3
+pytest @ file:///home/wagno/.cache/pypoetry/artifacts/d1/1b/37/7e08d5c367bb9c642353da8a3c70e784fa7cbd5ac685d8910986d77da0/pytest-5.4.3-py3-none-any.whl
+python-dateutil @ file:///home/wagno/.cache/pypoetry/artifacts/21/0f/2e/d0431e5b008e4e2b8cccfe0df2ffdc8f88c56dc4dd32fadc23a0602017/python_dateutil-2.8.1-py2.py3-none-any.whl
+python-dotenv @ file:///home/wagno/.cache/pypoetry/artifacts/4f/79/24/f378fb257052ab79c770b04f1e286798dd53e298d446ede7e97b8f6c6c/python_dotenv-0.15.0-py2.py3-none-any.whl
+pytz @ file:///home/wagno/.cache/pypoetry/artifacts/16/1c/09/d65272855a3b32bffadd86f9cfe30bc59ad219dce6113104e11d25a73f/pytz-2020.4-py2.py3-none-any.whl
+pyzmq==20.0.0
+requests==2.25.0
+retrying @ file:///home/wagno/.cache/pypoetry/artifacts/84/f0/be/6b5a3ffcee5488e78556217ace48c41f8b9637ec806ae029b3242b3403/retrying-1.3.3.tar.gz
+scipy @ file:///home/wagno/.cache/pypoetry/artifacts/b5/52/84/f96d55a97e9c95a756c61b33fc49bbbc1aebbaac1463cb43d309ae30a3/scipy-1.5.4-cp36-cp36m-manylinux1_x86_64.whl
+seaborn @ file:///home/wagno/.cache/pypoetry/artifacts/71/5b/2f/e926b66257e231f3706531a9f518bbc815b75a1ee4263714216410d7c1/seaborn-0.11.0-py3-none-any.whl
+Send2Trash==1.5.0
+six @ file:///home/wagno/.cache/pypoetry/artifacts/8f/ad/07/430874bae6abec03a479f691b997b77007c7bc86b26ab26d01f981a83e/six-1.15.0-py2.py3-none-any.whl
+smmap==3.0.4
+streamlit==0.72.0
+terminado==0.9.1
+testpath==0.4.4
+toml==0.10.2
+toolz==0.11.1
+tornado==6.1
+traitlets==4.3.3
+tzlocal==2.1
+urllib3==1.26.2
+validators==0.18.1
+watchdog==0.10.4
+wcwidth @ file:///home/wagno/.cache/pypoetry/artifacts/36/c8/d2/e0db95fba38e4224df88290e753cf2ff97a21ca91dbb726439b6055869/wcwidth-0.2.5-py2.py3-none-any.whl
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+xlrd==1.2.0
+zipp @ file:///home/wagno/.cache/pypoetry/artifacts/5e/da/a2/abd12d4863cd1ee8a2d8f964ba0e07f68145132c765be8d7480271c3d1/zipp-3.4.0-py3-none-any.whl

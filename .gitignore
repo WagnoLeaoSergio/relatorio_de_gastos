@@ -1,0 +1,5 @@
+.vscode/
+.env
+poetry.lock
+**/__pycache__/
+/relatorio_de_gastos/static
